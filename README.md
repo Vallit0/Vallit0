@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;Sebastian-Here....;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there!+👋;Sebastian+here! :c....;&center=true&size=30">
   </a>
 </h1>
 
@@ -18,13 +18,20 @@
   <br>
   🔬 I'm very passionate about AI and insurgent technologies just as Quantum Computing
   <br>
-  🎓 I graduated from Intellego Bilingual School 
+  🎓 I graduated from Intellego Bilingual School 🌎
   <br>
   💻 I love learning about complex topics and applications in research
   <br>
-  📚 I’m very enthusiastic about Machine Learning :brain:
+  <br>
+  🗣️ I speak English :us: , Spanish :es:, Intermediate Japanese 🇯🇵 and I'm currently learning French! 🇫🇷
+  <br>
+  📚 I’m very enthusiastic about Machine Learning applied to several sciences :brain:
   <br>
   📫 How to reach me: <a href="mailto: evallecyt@gmail.com">evallecyt@gmail.com</a>
+  <br>
+  - ⚡ Fun facts: I was part of the Guatemala's 2022 Huawei Seeds For The Future Team! 🌱
+      I won the National Secretariat's Innovation Rally for an App for an Autonomous Self-Sustainable house! 🔥 🥇
+      I was beneficiary of the Department of State's 100k Programme and took courses on problem solving in Texas Tech :us: and Honduras Tech 🇭🇳 
 </p>
 
 <hr>
@@ -47,9 +54,8 @@
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  code><img title="GitLab" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
