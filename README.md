@@ -1,12 +1,10 @@
 ### Hi, I'm Sebastian 👋 🧮
 
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there!+👋;Sebastian+here! :c....;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;Sebastian+here!+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -29,11 +27,25 @@
   <br>
   📫 How to reach me: <a href="mailto: evallecyt@gmail.com">evallecyt@gmail.com</a>
   <br>
-  - ⚡ Fun facts: I was part of the Guatemala's 2022 Huawei Seeds For The Future Team! 🌱
-      I won the National Secretariat's Innovation Rally for an App for an Autonomous Self-Sustainable house! 🔥 🥇
-      I was beneficiary of the Department of State's 100k Programme and took courses on problem solving in Texas Tech :us: and Honduras Tech 🇭🇳 
+  <br>
+  
+  <br>
 </p>
+<p align="left">
+<br>
+⚡ Fun Facts
+</br>
+<br>
+I was part of the Guatemala's 2022 Huawei Seeds For The Future Team! 🌱
+</br>
+<br>
+I won the National Secretariat's Innovation Rally for an App for an Autonomous Self-Sustainable house! 🔥 🥇
+</br>
+<br>
+ I was beneficiary of the Department of State's 100k Programme and took courses on problem solving in Texas Tech :us: and Honduras Tech 🇭🇳 
+</br>
 
+</p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
