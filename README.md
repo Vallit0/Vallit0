@@ -16,7 +16,7 @@
   <br>
   🔬 I'm very passionate about AI and insurgent technologies just as Quantum Computing
   <br>
-  🎓 I graduated from Intellego Bilingual School 🌎
+  🎓 I graduated from an International HS, Intellego Bilingual School 🌎
   <br>
   💻 I love learning about complex topics and applications in research
   <br>
