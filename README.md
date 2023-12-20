@@ -35,11 +35,19 @@
 <br>
 ⚡ Fun Facts
 </br>
+
+<br>
+I was one of the 1000 Talents of Latin America selected by AMEXCID (Mexican Agency for Internation Development) and took courses on AI 🇲🇽 
+</br>
 <br>
 I was part of the Guatemala's 2022 Huawei Seeds For The Future Team! 🌱
 </br>
 <br>
 I won the National Secretariat's Innovation Rally for an App for an Autonomous Self-Sustainable house! 🔥 🥇
+</br>
+
+<br>
+I won the same competition in 2022 and 2023 **Flex**, in 2023 I created an environment with Microsoft Azure IoT Services to support AI and Drone Analytics 🔥 🥇
 </br>
 <br>
  I was beneficiary of the Department of State's 100k Programme and took courses on problem solving in Texas Tech :us: and Honduras Tech 🇭🇳 
