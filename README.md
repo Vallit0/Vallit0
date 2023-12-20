@@ -37,7 +37,7 @@
 </br>
 
 <br>
-I was one of the 1000 Talents of Latin America selected by AMEXCID (Mexican Agency for Internation Development) and took courses on AI 🇲🇽 
+I was one of the 1000 Talents of Latin America selected by AMEXCID (Mexican Agency for International Development)  🇲🇽 and took courses on AI & ML 🧠 
 </br>
 <br>
 I was part of the Guatemala's 2022 Huawei Seeds For The Future Team! 🌱
