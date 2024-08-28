@@ -56,7 +56,10 @@ I won the National Secretariat's Innovation Rally for an App for an Autonomous S
 I won the same competition in 2022 and 2023 **Flex**, in 2023 I created an environment with Microsoft Azure IoT Services to support AI and Drone Analytics 🔥 🥇
 </br>
 <br>
- I was beneficiary of the Department of State's 100k Programme and took courses on problem solving in Texas Tech :us: and Honduras Tech 🇭🇳 
+ I was beneficiary of the Department of State's 100k Programme and took courses on problem solving in Texas Tech University :us: and Honduras Tech University 🇭🇳 
+</br>
+<br>
+2020 Academic Excellence Award in the School of Science and Systems Engineering.
 </br>
 
 </p>
