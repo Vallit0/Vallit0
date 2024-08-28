@@ -37,7 +37,7 @@
 </br>
 <br>
 I am currently developing a program for democratization of 4.0 Agriculture in Guatemala with help of ITU 🇺🇳 (United Nations Agency for ICTs) and Huawei Technologies. 
-This year, I was one of the 30 selected leaders worldwide to carry on my project in the Generation Connect Young Leadership Programme. 🌳
+This year, I was one of the 30 selected leaders worldwide to carry on my project in the Generation Connect Young Leadership Programme in Switzerland 🇨🇭. 🌳
 </br>
 <br>
 I'm currently a Research Associate for the Blue Marble Institute of Science 🌎 and Science Voices 🐝  
