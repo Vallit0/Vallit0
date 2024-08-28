@@ -21,7 +21,7 @@
   💻 I love learning about complex topics and applications in research
   <br>
   <br>
-  🗣️ I speak English :us: , Spanish :es:, Intermediate Japanese 🇯🇵 and I'm currently learning French! 🇫🇷
+  🗣️ I speak English :us: , Spanish :es:and I'm currently learning French! 🇫🇷
   <br>
   📚 I’m very enthusiastic about Machine Learning applied to several sciences :brain:
   <br>
@@ -35,7 +35,13 @@
 <br>
 ⚡ Fun Facts
 </br>
-
+<br>
+I am currently developing a program for democratization of 4.0 Agriculture in Guatemala with help of ITU 🇺🇳 (United Nations Agency for ICTs) and Huawei Technologies. 
+This year, I was one of the 30 selected leaders worldwide to carry on my project in the Generation Connect Young Leadership Programme. 🌳
+</br>
+<br>
+I'm currently a Research Associate for the Blue Marble Institute of Science 🌎 and Science Voices 🐝  
+</br>
 <br>
 I was one of the 1000 Talents of Latin America selected by AMEXCID (Mexican Agency for International Development)  🇲🇽 and took courses on AI & ML 🧠 
 </br>
