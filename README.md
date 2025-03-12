@@ -1,3 +1,6 @@
+
+![IEEE Computer Society Speaker](https://raw.githubusercontent.com/Vallit0/Vallit0/main/github_badge.png)
+
 ### Hi, I'm Sebastian 👋 🧮
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
