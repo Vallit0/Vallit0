@@ -15,15 +15,9 @@
 <p align="center">
   Hi, I'm Sebastian Valle, I'm currently a Science and Systems Engineering & Bachelor in Applied Mathematics Student in Guatemala!  
   <br>
-  <br>
-  🔬 I'm very passionate about AI and insurgent technologies just as Quantum Computing
-  <br>
   🎓 I graduated from an International HS, Intellego Bilingual School 🌎
   <br>
   💻 I love learning about complex topics and applications in research
-  <br>
-  <br>
-  🗣️ I speak English :us: , Spanish :es:and I'm currently learning French! 🇫🇷
   <br>
   📚 I’m very enthusiastic about Machine Learning applied to several sciences :brain:
   <br>
